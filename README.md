@@ -5,7 +5,6 @@ Hi, welcome to CS3263 assignment 2! You can complete all problems in [the main n
 After you complete your codes, **Please remember to copy your solutions into [the `programming.py` script](./programming.py)** for our evaluation.
 
 The programming part will be auto-graded on [CodePost](https://codepost.io/) platform.
-- You should have received an email to create and activate your CodePost account in Assignment 1. 
 - You don't need to submit to CodePost, we will import your submissions from Canvas.
 - Note the `programming.py` file is designed for auto-grading, so you can't run it normally from your end but don't worry. 
 - In the `programming.py` script, **DO NOT** modify any code outside the blocks you're allowed to, **DO NOT** print any other message.
